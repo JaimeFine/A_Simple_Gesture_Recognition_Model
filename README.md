@@ -1,16 +1,40 @@
 # A Simple Gesture Recognition Model
-This is a simple gesture recognition model that I built with Raspberry pi 4, including a picamera and two random servos.
-It is not finished currently, since I am not doing children's work, I want the project to be meaningful and useful.
-The source code are now separate, but it will be dealt in the future.
-## Contents
-> There are two folders in the repo:
-1. Servos Control
-2. Camera Control
----------------------------------------------------------------
-### Servos Control
-This part include a C++ code designed to control the movement of two servo motors using a Raspberry Pi 4.
-It demonstrates basic GPIO manipulation and real-time motor coordination, very basic project for robotics experiments or embedded systems prototyping.
-### Camera Control
-This part include a Python code designed to control the camera using the picamera(The cheapest one).
-It demonstrates basic OpenCV usage on a camera and a very simple tensorflow AI stuff.
-*NOTE: The tensorflow part might be substitute by pytorch in the future!*
+
+This is a gesture recognition project built using a Raspberry Pi 4, a PiCamera, and two servo motors. It's currently a work in progress — not just a toy demo, but something I want to evolve into a meaningful and practical system.
+
+The source code is currently split across modules, but integration is planned for future updates.
+
+---
+
+## Repository Structure
+
+- `Servos Control/`  
+  C++ code for controlling two servo motors via GPIO on the Raspberry Pi. It demonstrates basic motor coordination and GPIO manipulation — ideal for early robotics experiments or embedded systems prototyping.
+
+- `Camera Control/`  
+  Python code using PiCamera and OpenCV to capture images and perform basic gesture recognition. Currently uses TensorFlow, but may switch to PyTorch in future iterations.
+
+---
+
+## Future Plans
+
+- Merge servo and camera control into a unified system
+- Improve gesture recognition accuracy
+- Replace TensorFlow with PyTorch for better flexibility
+- Add real-time feedback from servos based on gesture input
+
+---
+
+## Notes
+
+- The PiCamera used is the most basic model — keeping it budget-friendly.
+- This project is designed to be more than just a beginner’s exercise. The goal is to build something useful, adaptable, and open to future expansion.
+
+---
+
+## Tech Stack
+
+- Raspberry Pi 4
+- C++ (for servo control)
+- Python + OpenCV
+- TensorFlow (tentative)
