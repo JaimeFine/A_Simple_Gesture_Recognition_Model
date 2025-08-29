@@ -1,4 +1,4 @@
-# Here the annotations are skipped, many of the code are similar with the gesture loading code
+# Here the annotations are skipped, many of the code are similar with the gesture capture file
 from picamera2 import Picamera2
 import cv2
 import mediapipe as mp
