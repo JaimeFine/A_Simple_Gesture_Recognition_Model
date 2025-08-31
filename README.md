@@ -22,6 +22,7 @@ The source code is currently split across modules, but integration is planned fo
 - Improve gesture recognition accuracy
 - Replace TensorFlow with PyTorch for better flexibility
 - Add real-time feedback from servos based on gesture input
+> The project might be able to continue in or after October, since my focus has shifted from AI to system programming and algorithms, which aligns with my coursework this term.
 
 ---
 
