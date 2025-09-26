@@ -1,5 +1,5 @@
 > ⚠️ **Project Migrated**  
-> This project has been moved to [My_Embedded_System_Projects](https://github.com/yourusername/My_Embedded_System_Projects/tree/main/Picamera_Control_Python).  
+> This project has been moved to [Embedded_System_Projects](https://github.com/JaimeFine/Embedded_System_Projects/A_Simple_Gesture_Recognition_Model).  
 > No further updates will be made here.
 
 # A Simple Gesture Recognition Model
