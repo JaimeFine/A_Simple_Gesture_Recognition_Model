@@ -1,3 +1,7 @@
+> ⚠️ **Project Migrated**  
+> This project has been moved to [My_Embedded_System_Projects](https://github.com/yourusername/My_Embedded_System_Projects/tree/main/Picamera_Control_Python).  
+> No further updates will be made here.
+
 # A Simple Gesture Recognition Model
 
 This is a gesture recognition project built using a Raspberry Pi 4, a PiCamera, and two servo motors. It's currently a work in progress — not just a toy demo, but something I want to evolve into a meaningful and practical system.
